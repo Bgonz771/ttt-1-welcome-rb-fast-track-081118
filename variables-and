@@ -1,0 +1,3 @@
+#this is a variable that's a string
+dog = "wolf"
+puts dog
